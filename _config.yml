@@ -9,6 +9,7 @@ description:
 # --- Navigation bar options --- #
 
 # List of links in the navigation bar
+  # Markdown Tip: Link to something in the repo: ../(folder)/pagename
 navbar-links:
   About Me: "aboutme"
   Resources:
