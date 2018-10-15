@@ -12,7 +12,7 @@ description:
   # Markdown Tip: Link to something in the repo: ../(folder)/pagename
 navbar-links:
   About Me: "aboutme"
-  Papers: "../papers/index.md"
+  Papers: "../(papers)/index.md"
   Resources:
     - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
     - Learn markdown: "http://www.markdowntutorial.com/"
