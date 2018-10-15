@@ -1,11 +1,8 @@
 ---
 layout: page
-title: '"Hands up, don't shoot" was built on a lie'
+title: &lsquo;&ldquo;Hands up, don't shoot&rdquo; was built on a lie&rsquo;
 subtitle: A case-study on social movements in the media
 ---
-
-# '"Hands up, don't shoot" was built on a lie': A case-study on social movements in the media
-_____
 
 Introduction
 ============
