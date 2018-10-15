@@ -4,6 +4,9 @@ title: '"Hands up, don't shoot" was built on a lie'
 subtitle: A case-study on social movements in the media
 ---
 
+# '"Hands up, don't shoot" was built on a lie': A case-study on social movements in the media
+_____
+
 Introduction
 ============
 
