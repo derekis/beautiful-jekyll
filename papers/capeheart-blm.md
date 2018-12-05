@@ -542,4 +542,27 @@ incidental to patterns of social organization. While society can be
 though of as that-which-structures communication, society can also be
 thought of in terms of that-which-is-structured-by communication.
 
-\bibliographystyle{linquiry2}
+<!--- References
+===================
+[^1]: Capehart, Jonathan. 2015. 'Hands up, don't shoot' was built on a lie. Washington
+Post. Online; accessed 9 September 2015. URL: <http://www.washingtonpost.com/blogs/post-partisan/wp/2015/03/16/lesson-learned-from-the-shooting-of-michael-brown/>.
+[^2]: Fenton,  Natalie. 2010. *New media, old news*. SAGE Publications.
+[^3]: Guynn, Jessica. 2015. Meet the woman who coined \#BlackLivesMatter. *USA Today*. Online; accessed 8 October 2015. URL: URL: <http://www.usatoday.com/story/tech/2015/03/04/alicia-garza-black-lives-matter/24341593/>.
+[^4]: Halpern, Jake. 2015. The cop. *The New Yorker Online*; accessed 3 November 2015. URL: <http://www.newyorker.com/magazine/2015/08/10/the-cop>.
+[^5]: Hjarvard, Stig. 2013. *The mediatization of culture and society*. London and New York:
+Routledge.
+[^6]: Hodge, Robert, and Gunther Kress. 1988. *Social semiotics*. Ithaca, New York: Cornell
+University Press.
+[^7]: Neuberger, Christoph. 2013. Competition or complementarity?: Journalism, social net-
+work sites, and news search engines. In *Journalism and media convergence*, ed. Heinz-
+Werner Nienstedt, Stephan Russ-Mohl, and Bartosz Wilczek, 119-130. Berlin/Boston:
+Walter de Gruyter GmbH.
+[^8]: Robertson, Alexa. 2015. *Media and politics in a globalizing world*. Great Britain: Polity
+Books.
+[^9]: Thierer, Adam. 2010. Are you an internet optimist or pessimist? The great debate
+over technology's impact on society. Online; accessed 18 September 2015. URL:
+<http://techliberation.com/2010/01/31/are-you-an-internet-optimist-or-pessimist-the-great-debate-over-technology%E2%80%99s-impact-on-society/>.
+[^10]: White, Robert A. 1995. Democratization of communication as social movement process.
+In *The democratization of communication*, ed. Philip Lee, 93-113. Cardiff: University
+of Wales Press.
+--->
