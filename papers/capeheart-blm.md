@@ -510,8 +510,8 @@ website hashtagify.me (CyBranding 2015), a hashtag search engine. We see
 that while \#Ferguson, \#EricGarner, \#ICantBreathe, and even
 \#MikeBrown make the list, \#HandsUpDontShoot does not.
 
-![Table of hashtags correlated with \#BlackLivesMatter (from
-hashtagify.me)(ism-capehart-hashtag.jpg)
+![Table of hashtags correlated with \#BlackLivesMatter from
+hashtagify.me](ism-capehart-hashtag.jpg)
 
 One of the situations we examined was how the journalist as an
 individual actor had to address several different contexts. In contrast
