@@ -534,7 +534,7 @@ patterns of social organization. While society can be though of as
 that-which-structures communication, society can also be thought of in
 terms of that-which-is-structured-by communication.
 
-<div id="refs" class="references">
+# References
 
 <div id="ref-capehart2015">
 
