@@ -511,7 +511,7 @@ that while \#Ferguson, \#EricGarner, \#ICantBreathe, and even
 \#MikeBrown make the list, \#HandsUpDontShoot does not.
 
 ![Table of hashtags correlated with \#BlackLivesMatter (from
-[hashtagify.me](hashtagify.me))(ism-capehart-hashtag.jpg)
+hashtagify.me)(ism-capehart-hashtag.jpg)
 
 One of the situations we examined was how the journalist as an
 individual actor had to address several different contexts. In contrast
