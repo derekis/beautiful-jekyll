@@ -2,6 +2,7 @@
 layout: page
 title: "'Hands up, don't shoot' was built on a lie"
 subtitle: A case-study on social movements in the media
+link-citations: true
 ---
 
 # Introduction
@@ -534,26 +535,56 @@ patterns of social organization. While society can be though of as
 that-which-structures communication, society can also be thought of in
 terms of that-which-is-structured-by communication.
 
-# References
+<div id="refs" class="references">
+
+<div id="ref-capehart2015">
 
 Capehart, Jonathan. 2015. “‘Hands up, don’t Shoot’ Was Built on a Lie.”
 *Washington Post.*, March.
 
+</div>
+
+<div id="ref-hashtagify-blm">
+
 CyBranding, Ltd. 2015. “All-Time Top 10 Hashtags Related to
 \#Blacklivesmatter.”
 
+</div>
+
+<div id="ref-fenton2010">
+
 Fenton, Natalie. 2010. *New Media, Old News*. SAGE Publications.
+
+</div>
+
+<div id="ref-guynn2015">
 
 Guynn, Jessica. 2015. “Meet the Woman Who Coined \#BlackLivesMatter.”
 *USA Today.*
 
+</div>
+
+<div id="ref-halpern2015">
+
 Halpern, Jake. 2015. “The Cop.” *The New Yorker*, March.
+
+</div>
+
+<div id="ref-hjarvard2013">
 
 Hjarvard, Stig. 2013. *The Mediatization of Culture and Society*.
 London; New York: Routledge.
 
+</div>
+
+<div id="ref-hodgekress1988">
+
 Hodge, Robert, and Gunther Kress. 1988. *Social Semiotics*. Ithaca, New
 York: Cornell University Press.
+
+</div>
+
+<div id="ref-neuberger2013">
 
 Neuberger, Christoph. 2013. “Competition or Complementarity?:
 Journalism, Social Network Sites, and News Search Engines.” In
@@ -561,12 +592,28 @@ Journalism, Social Network Sites, and News Search Engines.” In
 Stephan Russ-Mohl, and Bartosz Wilczek, 119–30. Berlin/Boston: Walter de
 Gruyter GmbH.
 
+</div>
+
+<div id="ref-robertson2015">
+
 Robertson, Alexa. 2015. *Media and Politics in a Globalizing World*.
 Great Britain: Polity Books.
+
+</div>
+
+<div id="ref-thierer2010">
 
 Thierer, Adam. 2010. “Are You an Internet Optimist or Pessimist? The
 Great Debate over Technology’s Impact on Society.”
 
+</div>
+
+<div id="ref-white1995">
+
 White, Robert A. 1995. “Democratization of Communication as Social
 Movement Process.” In *The Democratization of Communication*, edited by
 Philip Lee, 93–113. Cardiff: University of Wales Press.
+
+</div>
+
+</div>
