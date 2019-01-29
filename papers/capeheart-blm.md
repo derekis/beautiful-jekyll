@@ -6,11 +6,8 @@ subtitle: A case-study on social movements in the media
 
 # Introduction
 
-The starting point for this case-study is an article published in the Washington Post on March 15, 2015, regarding events that occurred in August, 2014 in Ferguson, Missouri. The article was written by journalist Jonathan Capehart following the release of two reports by the
-United States Department of Justice (DOJ) on March 4, 2015, one about
-the investigation into the shooting death of Michael Brown by Officer
-Darren Wilson, and the other about the investigation into the workings
-of the Ferguson Police Department.
+The starting point for this case-study is an [article published in the Washington Post on March 15, 2015](https://www.washingtonpost.com/blogs/post-partisan/wp/2015/03/16/lesson-learned-from-the-shooting-of-michael-brown/), regarding events that occurred in August, 2014 in Ferguson, Missouri. The article was written by journalist Jonathan Capehart following the release of two reports by the
+United States Department of Justice (DOJ) on March 4, 2015, one about the investigation into the shooting death of Michael Brown by Officer Darren Wilson, and the other about the investigation into the workings of the Ferguson Police Department.
 
 In his report, Capehart comes to the conclusion that ‘Brown never
 surrendered with his hands up, and Wilson was justified in shooting
