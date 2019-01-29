@@ -420,11 +420,7 @@ order.
 
 ### Thierer on the impact of technology
 
-In attempting to understand the impact of both traditional news media
-and social media on the state of public knowledge, we have invoked two
-theories to explain the impact of their associated technologies (i.e.
-broadcast technology and the internet). In fact our attempts to evaluate
-their impact may fall into a larger pattern.
+In attempting to understand the impact of both traditional news media and social media on the state of public knowledge, we have invoked two theories to explain the impact of their associated technologies (broadcast technology and the internet, respectively). In fact our attempts to evaluate their impact may fall into a larger pattern.
 
 In thinking about the impact of technologies like the internet on human
 society, the conventional wisdom seems to be that, beyond giving people
