@@ -1,8 +1,15 @@
 ---
 layout: page
-title: "'Hands up, don't shoot' was built on a lie"
+title: \"'Hands up, don't shoot' was built on a lie\"
 subtitle: A case-study on social movements in the media
+category: papers
+tags: [sociolinguistics, mediatization, social semiotics, social movements, social media, media studies, Jonathan Capehart]
 ---
+
+## Foreword
+
+*I wrote this case-study about a WP article in the August to October 2015, for an ISM supervised by Dr. Rebecca Starr. The article had some personal resonance for me as Jonathan Capehart, a journalist and Carleton College alumnus, was the speaker at Convocation in June 2014. I was at Carleton for the academic year ending in 2014, following which I returned to Singapore. My Facebook circles were my window into things as \#Ferguson unfolded over the late summer of 2014, and as \#BlackLivesMatter continued to trend into 2015.*
+
 
 # Introduction
 
