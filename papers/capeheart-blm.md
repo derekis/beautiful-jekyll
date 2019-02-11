@@ -1,6 +1,6 @@
 ---
 layout: page
-title: '"Hands up, don't shoot" was built on a lie'
+title: "'"Hands up, don't shoot" was built on a lie'"
 subtitle: A case-study on social movements in the media
 category: papers
 tags: [sociolinguistics, mediatization, social semiotics, social movements, social media, media studies, Jonathan Capehart]
